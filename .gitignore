@@ -1,4 +1,5 @@
-# Local .terraform directories
+a*.sh
+ocal .terraform directories
 **/.terraform/*
 
 # .tfstate files
